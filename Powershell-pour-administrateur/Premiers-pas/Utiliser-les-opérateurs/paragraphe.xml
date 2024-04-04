@@ -1,0 +1,96 @@
+<paragraphe> 
+<titre>Utiliser les opérateurs</titre>
+    <illustration>
+        <!--image reference dans le repertoire local-->
+    </illustration>
+    <!--
+        text=explication du sous paragraphe
+        exemple = text=explication 
+    -->
+    <texte>
+    </texte>
+    <!--
+        exemple de code source avec explication
+    -->
+    <exemple>
+        <description>
+        </description>
+        <contenu>
+        </contenu>
+    </exemple>          
+    <!--
+        exemple de ligne de commande avec explication
+    -->
+    <console>
+        <description>
+        </description>
+        <contenu>
+        </contenu>
+    </console>          
+    <sparagraphes>
+        <sparagraphe order='1' titre="STITRE">
+            <illustration>
+                <!--image reference dans le repertoire local-->
+            </illustration>
+            <!--
+                text=explication du sous paragraphe
+                exemple = text=explication 
+            -->
+            <texte>
+            </texte>
+            <!--
+                exemple de code source avec explication
+            -->
+            <exemple>
+                <description>
+                </description>
+                <contenu>
+                </contenu>
+            </exemple>          
+            <!--
+                exemple de ligne de commande avec explication
+            -->
+            <console>
+                <description>
+                </description>
+                <contenu>
+                </contenu>
+            </console>          
+        </sparagraphe>
+        <exercices>
+            <!--
+                relatifs au paragraphe 
+                enoncé, portion de code si ce n'est pas trop gros
+                download = lien ou tout le projet
+            -->
+            <exercice>
+                <enonce></enonce>
+                <corrige></corrige>
+                <download></download>
+            </exercice>
+        </exercices>
+        <sites>
+            <!--
+            les url de reférences qui traite du sujet
+            -->
+            <site></site>
+            <site></site>
+        </sites>
+    </sparagraphes>
+    <ia>
+        <!--
+            theme=de quoi parle ton (Angular, Python, securité,...) = titre du livre
+            sujet=du paragraphe en court = titre du paragraphe = Utiliser les opérateurs
+            Questions = personnalisée et a completer et a poser à IA (eventullement à adapter)
+        -->
+        <theme>
+        THEME
+        </theme>
+        <questions>
+            En francais Conceptes : THEME, Powershell -
+            En francais Explication : THEME, Powershell -
+            En francais Syntaxe : THEME, Powershell
+            En francais Exemple simple : THEME, Powershell -
+        </questions>
+    </ia>
+</paragraphe>
